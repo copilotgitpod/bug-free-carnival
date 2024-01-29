@@ -156,20 +156,6 @@ header .menu nav a:hover {
   #services .textbox {
     padding: 0 0 50px;
   }
-  #services .textbox h1 {
-    font-size: 40px;
-  }
-  #services .textbox h3 {
-    font-size: 20px;
-    margin-top: 15px;
-  }
-  #services .textbox h2 {
-    font-size: 25px;
-  }
-  #services .textbox h4 {
-    padding-bottom: 50px;
-    font-size: 18px;
-  }
 }
 
 #portfolio {
